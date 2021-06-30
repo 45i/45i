@@ -25,4 +25,4 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SlapBoi69&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SlapBoi69&langs_count=5&theme=tokyonight)]()
-[![**Link To My Discord Account**](https://github.com/SlapBoi69/SlapBoi69/blob/ReadMe/damn.png)](https://discord.com/users/187316528100802560)
+[![**Link To My Discord Account**](https://github.com/SlapBoi69/SlapBoi69/blob/ReadMe/damn.png)](https://discord.com/users/831154220723339324)
