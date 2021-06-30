@@ -13,6 +13,7 @@ Like many, I enjoy the Great Literatures ie. Memes
 **Contact me:**
 
 **Shoot me a DM on discord : Sir F Bombs#6969**
+http://discord.com/users/831154220723339324
 
 **Also make sure to check out my friends @**
                                              https://github.com/Zynx64, https://github.com/mysterywave, https://github.com/RealDJMolotov, https://github.com/ItsEllah, https://github.com/TheProphetOfGaster 
