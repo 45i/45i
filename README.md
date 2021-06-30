@@ -16,11 +16,11 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 
 **Also make sure to check out my friends @** :
-                                             * https://github.com/Zynx64 
-                                             * https://github.com/mysterywave 2
-                                             * https://github.com/RealDJMolotov 3
-                                             * https://github.com/ItsEllah 4
-                                             * https://github.com/TheProphetOfGaster 5
+* https://github.com/Zynx64 
+* https://github.com/mysterywave 
+* https://github.com/RealDJMolotov 
+* https://github.com/ItsEllah 
+* https://github.com/TheProphetOfGaster 
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SlapBoi69&count_private=true&theme=tokyonight&showicons=true)]()
