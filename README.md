@@ -2,6 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=SlapBoi69&color=green)
 
 **👋 Heyo! I'm Sir F Bombs and I like to code shit**
+
+
 I am a developer at SpearFall Games and I LOVE to code.
 Unlike other fellow earthlings, I do not like sports or games, instead I like to spend my free time reading books or programming.
 I have been working on a project that is a FastSearcher.
