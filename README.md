@@ -6,3 +6,7 @@ Unlike other fellow earthlings, I do not like sports or games, instead I like to
 I have been working on a project that is a FastSearcher.
 The code is public and you can obviously check it out.
 Like many, I enjoy the Great Literatures ie. Memes
+
+**Contact me:**
+
+**Shoot me a DM on discord : Sir F Bombs#6969**
