@@ -22,6 +22,7 @@ Like many, I enjoy the Great Literatures ie. Memes
 * https://github.com/RealDJMolotov 
 * https://github.com/ItsEllah 
 * https://github.com/TheProphetOfGaster 
+* https://github.com/v5k
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SlapBoi69&count_private=true&theme=tokyonight&showicons=true)]()
