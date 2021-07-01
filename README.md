@@ -1,5 +1,5 @@
 # Who Am I?
-![](https://komarev.com/ghpvc/?username=SlapBoi69&color=green)
+![](https://komarev.com/ghpvc/?username=SlapBoi69&color=red)
 
 # **👋 Heyo! I'm Sir F Bombs and I like to code shit**
 
@@ -12,8 +12,8 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 **Contact me:**
 
-* **Shoot me a [DM](https://discord.com/users/831154220723339324) on [discord](https://discord.com/users/831154220723339324) : Sir F Bombs#6969**
-* I'm on [Git Pages]( https://SlapBoi69.github.io.)!
+**Shoot me a [DM](https://discord.com/users/831154220723339324) on [discord](https://discord.com/users/831154220723339324) : Sir F Bombs#6969**
+
 
 
 **Also make sure to check out my friends @** :
