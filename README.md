@@ -27,7 +27,9 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SlapBoi69&count_private=true&theme=tokyonight&showicons=true)]()
                                                                                                       ^
+                                                                                                      
                                                                                                       |
+                         
                          **Even though this says that the main language is HTML, its actually Python**___ |
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SlapBoi69&langs_count=5&theme=tokyonight)]()
 <h3 align="left">Languages and Tools:</h3>
