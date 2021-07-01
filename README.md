@@ -40,3 +40,6 @@ Even though this says that the main language is HTML, its actually Python 👇(j
 
 
 [![**Link To My Discord Account**](https://github.com/SlapBoi69/SlapBoi69/blob/ReadMe/damn.png)](https://discord.com/users/831154220723339324)
+
+
+> powered by **COFFEE**
