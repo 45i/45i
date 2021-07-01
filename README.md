@@ -12,8 +12,8 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 **Contact me:**
 
-* **Shoot me a DM on discord : Sir F Bombs#6969**
-* **Check out my [Discord Pages]( https://SlapBoi69.github.io) as well :)**
+**Shoot me a [DM](https://discord.com/users/831154220723339324) on [discord](https://discord.com/users/831154220723339324) : Sir F Bombs#6969**
+
 
 
 **Also make sure to check out my friends @** :
