@@ -10,6 +10,10 @@ I have been working on a project that is a FastSearcher.
 The code is public and you can obviously check it out.
 Like many, I enjoy the Great Literatures ie. Memes
 
+
+**Pronouns:** HE / HIM
+
+
 **Contact me:**
 
 **Shoot me a [DM](https://discord.com/users/831154220723339324) on [discord](https://discord.com/users/831154220723339324) : Sir F Bombs#6969**
@@ -17,12 +21,13 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 
 **Also make sure to check out my friends @** :
-* https://github.com/Zynx64 
-* https://github.com/mysterywave 
-* https://github.com/RealDJMolotov 
-* https://github.com/ItsEllah 
-* https://github.com/TheProphetOfGaster 
-* https://github.com/v5k
+* [Aro](https://github.com/Zynx64 )
+* [mysterywave](https://github.com/mysterywave )
+* [RealDJMolotov](https://github.com/RealDJMolotov) 
+* [Ella](https://github.com/ItsEllah )
+* [Prophet](https://github.com/TheProphetOfGaster )
+* [Bombsy](https://github.com/v5k)
+* [Phantom Coder](https://github.com/Coderoftheworld)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SlapBoi69&count_private=true&theme=tokyonight&showicons=true)]()
