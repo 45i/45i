@@ -12,7 +12,7 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 
 **Languages I Know:** **JAVA**,**C#** and **Python**
-I know [**Rookie Numbers**](https://user-images.githubusercontent.com/86361659/124341681-a9525c80-dbdb-11eb-8d92-fd306f50db39.png)
+> I know [**Rookie Numbers**](https://user-images.githubusercontent.com/86361659/124341681-a9525c80-dbdb-11eb-8d92-fd306f50db39.png)
 
 
 
