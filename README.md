@@ -24,6 +24,9 @@ Like many, I enjoy the Great Literatures ie. Memes
 **Shoot me a [DM](https://discord.com/users/831154220723339324) on [discord](https://discord.com/users/831154220723339324) : Sir F Bombs#6969**
 
 
+**Age:** [13](https://user-images.githubusercontent.com/86361659/124341807-aefc7200-dbdc-11eb-8651-8138508bdcb1.png)
+
+
 
 **Also make sure to check out my friends @** :
 * [Aro](https://github.com/Zynx64 )
