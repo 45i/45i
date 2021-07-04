@@ -45,7 +45,7 @@ Like many, I enjoy the Great Literatures ie. Memes
                                                                                                       
                                                                                                       
                          
-Even though this says that the main language is HTML, its actually Python 👇(just imagine that this emoji is pointing at the widget and is also located just above it)
+
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=45i&langs_count=5&theme=tokyonight)]()
