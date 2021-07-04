@@ -1,7 +1,7 @@
 # Who Am I?
 ![](https://komarev.com/ghpvc/?username=SlapBoi69&color=red)
 
-# **👋 Heyo! I'm Sir F Bombs and I like to code shit**
+# **👋 Heyo! I'm Sir F Bombs(yes this is my other nickname) and I like to code shit**
 
 
 I am a developer at SpearFall Games and I LOVE to code.
