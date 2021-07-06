@@ -55,8 +55,7 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 # Contributors To My FastSearch Project
 
-Made with ❤️ by:
-@45i
+Made with ❤️ by: [@PythaSnek](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![**Link To My Discord Account**](https://github.com/SlapBoi69/SlapBoi69/blob/ReadMe/damn.png)](https://discord.com/users/831154220723339324)
 
