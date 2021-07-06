@@ -54,10 +54,11 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 
 # Contributors To My FastSearch Project
+
+Made with ❤️ by:
 <a href = "https://github.com/45i/FastSearch/graphs/contributors">
 <img src = "https://contrib.rocks/image?repo = 45i/FastSearch"/>
 </a>
-Made with [contributors-img](https://contrib.rocks).
 
 
 [![**Link To My Discord Account**](https://github.com/SlapBoi69/SlapBoi69/blob/ReadMe/damn.png)](https://discord.com/users/831154220723339324)
