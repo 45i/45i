@@ -41,7 +41,9 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 ## Dem Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=45i&count_private=true&theme=tokyonight&showicons=true)]()
+### Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=45i" alt="45i" /></a> </p>
+### Dat Smokin' Hot 🥵
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=45i&show_icons=true&locale=en&layout=compact" alt="45i" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=45i&" alt="45i" /></p>                                                                                                      
