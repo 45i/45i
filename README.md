@@ -11,12 +11,12 @@ The code is public and you can obviously check it out.
 Like many, I enjoy the Great Literatures ie. Memes
 
 
-**Languages I Know:** **JAVA**,**C#** and **Python**
+**Languages I Know:** **JAVA**, **C#** and **Python**
 > "I know, [**Rookie Numbers**](https://user-images.githubusercontent.com/86361659/124341681-a9525c80-dbdb-11eb-8d92-fd306f50db39.png)"
 
 
 
-**Pronouns:** HE / HIM
+**Pronouns:** HE / HIM [idk why you would want it tho]
 
 
 **Age:** [13](https://user-images.githubusercontent.com/86361659/124341807-aefc7200-dbdc-11eb-8651-8138508bdcb1.png)
