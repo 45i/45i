@@ -71,7 +71,7 @@ Just Don't Write Anything Malicious Tho
 
 
 
-[![**Link To My Discord Account**](https://joinmy.site/invite.php?id=TG5DOU)
+[![**Link To My Discord Account**]](https://joinmy.site/invite.php?id=TG5DOU)
 
 
 > powered by **COFFEE** ☕
