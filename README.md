@@ -68,11 +68,10 @@ Made with ❤️ by: [@PythaSnek](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ### contributions are welcome with open arms btw :) so feel free to contribute to my code
 Just Don't Write Anything Malicious Tho
 
-## check out my Website!
-[Pytha Snek](https://joinmy.site/invite.php?id=TG5DOU)
 
 
-[![**Link To My Discord Account**](https://github.com/SlapBoi69/SlapBoi69/blob/ReadMe/damn.png)](https://discord.com/users/831154220723339324)
+
+[![**Link To My Discord Account**](https://joinmy.site/invite.php?id=TG5DOU)
 
 
 > powered by **COFFEE** ☕
