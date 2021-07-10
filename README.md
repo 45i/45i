@@ -40,7 +40,7 @@ Like many, I enjoy the Great Literatures ie. Memes
 * [Phantom Coder](https://github.com/Coderoftheworld)
 
 ## Dem Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=45i&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=45i&count_private=true&theme=synthwave&showicons=true)]()
 ### Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=45i" alt="45i" /></a> </p>
 
