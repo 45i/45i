@@ -1,2 +1,4 @@
 
 background-image: url('https://github.com/45i/45i/blob/gh-pages/1.jpeg');
+
+theme: jekyll-theme-cayman
