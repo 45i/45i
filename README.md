@@ -71,7 +71,7 @@ Just Don't Write Anything Malicious Tho
 
 
 
-[![**Link To My Discord Account**](https://github.com/SlapBoi69/SlapBoi69/blob/ReadMe/damn.png)](https://joinmy.site/invite.php?id=TG5DOU)
+
 
 
 > powered by **COFFEE** ☕
