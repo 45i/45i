@@ -1,5 +1,5 @@
 # Who Am I?
-![](https://komarev.com/ghpvc/?username=SlapBoi69&color=red)
+[![](https://komarev.com/ghpvc/?username=SlapBoi69&color=red)](https://imageshare.best/image.php?ref=5ME3TO)
 
 # **👋 Heyo! I'm Sir F Bombs and I like to code shit**
 (yea thats my other nickname)
