@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+# Who Am I?
+![](https://komarev.com/ghpvc/?username=SlapBoi69&color=red)
 
-You can use the [editor on GitHub](https://github.com/45i/45i/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# **👋 Heyo! I'm Sir F Bombs and I like to code shit**
+(yea thats my other nickname)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a developer at SpearFall Games and I LOVE to code.
+Unlike other fellow earthlings, I do not like sports or games, instead I like to spend my free time reading books or programming.
+I have been working on a project that is a FastSearcher.
+The code is public and you can obviously check it out.
+Like many, I enjoy the Great Literatures ie. Memes
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Languages I Know:** **JAVA**, **C#** and **Python**
+> "I know, [**Rookie Numbers**](https://user-images.githubusercontent.com/86361659/124341681-a9525c80-dbdb-11eb-8d92-fd306f50db39.png)"
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**Pronouns:** HE / HIM [idk why you would want it tho]
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Age:** [13](https://user-images.githubusercontent.com/86361659/124341807-aefc7200-dbdc-11eb-8651-8138508bdcb1.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Contact me:**
 
-### Jekyll Themes
+**Shoot me a [DM](https://discord.com/users/831154220723339324) on [discord](https://discord.com/users/831154220723339324) : Sir F Bombs#6969**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/45i/45i/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+**Also make sure to check out my friends @** :
+* [Aro](https://github.com/Zynx64 )
+* [mysterywave](https://github.com/mysterywave )
+* [RealDJMolotov](https://github.com/RealDJMolotov) 
+* [Ella](https://github.com/ItsEllah )
+* [Prophet](https://github.com/TheProphetOfGaster )
+* [Bombsy](https://github.com/v5k)
+* [Phantom Coder](https://github.com/Coderoftheworld)
+
+## Dem Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=45i&count_private=true&theme=synthwave&showicons=true)]()
+### Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=45i" alt="45i" /></a> </p>
+
+### Dat Smokin' Hot 🥵
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=45i&show_icons=true&locale=en&layout=comfortable" alt="45i" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=45i&" alt="45i" /></p>                                                                                                      
+                                                                                                      
+                                                                                                      
+                         
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+# QOTD
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=synthwave)
+
+
+# Contributors To My FastSearch Project
+
+Made with ❤️ by: [@PythaSnek](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+### contributions are welcome with open arms btw :) so feel free to contribute to my code
+Just Don't Write Anything Malicious Tho
+
+
+
+
+[![**Link To My Discord Account**](https://github.com/SlapBoi69/SlapBoi69/blob/ReadMe/damn.png)](https://joinmy.site/invite.php?id=TG5DOU)
+
+
+> powered by **COFFEE** ☕
