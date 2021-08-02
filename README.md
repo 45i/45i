@@ -65,8 +65,9 @@ Like many, I enjoy the Great Literatures ie. Memes
 
 ## FastSearch
 ##### An epic program written in Python!
-[![DOI](https://zenodo.org/badge/379612238.svg)](https://zenodo.org/badge/latestdoi/379612238) [Citeable]
-Download the latest stable version -> [![v1.0](https://img.shields.io/badge/Download-red)](https://github.com/45i/FastSearch/blob/main/main.exe?raw=true)
+[![DOI](https://zenodo.org/badge/379612238.svg)](https://zenodo.org/badge/latestdoi/379612238) #### [Citeable]
+
+#### Download the latest stable version -> [![v1.0](https://img.shields.io/badge/Download-red)](https://github.com/45i/FastSearch/blob/main/main.exe?raw=true)
 # Contributors To My FastSearch Project
 
 Made with ❤️ by: [@PythaSnek](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
