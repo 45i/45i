@@ -9,7 +9,12 @@ Unlike other fellow earthlings, I do not like sports or games, instead I like to
 I have been working on a project that is a FastSearcher.
 The code is public and you can obviously check it out.
 Like many, I enjoy the Great Literatures ie. Memes
-
+ 
+#### Fun Facts
+> I entered the programming world at the age of 5
+> Self-Taught programmer
+> Hates tutorials
+> Learning VFX 'cause why not?
 
 **Languages I Know:** **JAVA**, **C#** and **Python**
 > "I know, [**Rookie Numbers**](https://user-images.githubusercontent.com/86361659/124341681-a9525c80-dbdb-11eb-8d92-fd306f50db39.png)"
