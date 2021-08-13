@@ -12,8 +12,11 @@ Like many, I enjoy the Great Literatures ie. Memes
  
 #### Fun Facts
 > I entered the programming world at the age of 5
+
 > Self-Taught programmer
+
 > Hates tutorials
+
 > Learning VFX 'cause why not?
 
 **Languages I Know:** **JAVA**, **C#** and **Python**
