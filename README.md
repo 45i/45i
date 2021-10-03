@@ -46,6 +46,7 @@ Like many, I enjoy the Great Literatures ie. Memes
 * [Prophet](https://github.com/TheProphetOfGaster )
 * [Bombsy](https://github.com/v5k)
 * [Phantom Coder](https://github.com/Coderoftheworld)
+* [Null (the cutest c/c++ dev <3)](https://github.com/vierofernando)
 
 ## Dem Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=45i&count_private=true&theme=synthwave&showicons=true)]()
