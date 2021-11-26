@@ -1,7 +1,8 @@
 # Who Am I?
 [![](https://komarev.com/ghpvc/?username=SlapBoi69&color=red)](https://curiouscat.club/profile.php?id=5ME3TO)
 I'm making AntiScam!!
-[![Discord Bots](https://top.gg/api/widget/upvotes/886309422526259231.svg)(https://top.gg/bot/886309422526259231)
+
+[![](https://top.gg/api/widget/upvotes/886309422526259231.svg)](https://top.gg/bot/886309422526259231)
 
 # **👋 Heyo! I'm Sir F Bombs and I like to code shit**
 (yea thats my other nickname)
