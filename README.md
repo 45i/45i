@@ -1,9 +1,5 @@
-# Who Am I?
 [![](https://komarev.com/ghpvc/?username=SlapBoi69&color=red)](https://curiouscat.club/profile.php?id=5ME3TO)
-
-I'm making AntiScam!!
-
-[![](https://top.gg/api/widget/upvotes/886309422526259231.svg)](https://top.gg/bot/886309422526259231)
+# Who Am I?
 
 # **👋 Heyo! I'm Sir F Bombs and I like to code shit**
 (yea thats my other nickname)
