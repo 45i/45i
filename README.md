@@ -3,4 +3,6 @@
 i got my own website now, idk check it out ig: [Linkie!](https://45i.is-a.dev)
 
 > programmer, 3d artist, idiot
-> executable masking application in the works btw
+
+
+> certified monkey; self declared specialist in weaponized stupidity 
