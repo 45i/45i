@@ -2,7 +2,7 @@
 
 i got my own website now, idk check it out ig: [Linkie!](https://45i.is-a.dev)
 
-## I SWEAR ILL START MAKING SERIOUS SOFTWARE 
+## I SWEAR I'LL START MAKING SERIOUS SOFTWARE
 
 > programmer, 3d artist, idiot
 
